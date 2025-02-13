@@ -1,1 +1,1 @@
-# LearnUp-Infinit-
+# LearnUp-Infinity
