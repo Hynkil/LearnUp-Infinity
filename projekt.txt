@@ -1,0 +1,4 @@
+Dizájnolás : Színátmenetes háttér pl.: kék-zöld 
+Menü: A mnenü legyen mindig látható, ez segíti a gyors navigálást.
+Animált háttér ami a projekthez kapcsolódik. Lassú mozgású videó amely bemutatja az aplikációnk müködését.
+Lehetne középen egy fő szlogen ami megfogja az emberek figyelmét. Olyan betütipus ami jól látható.
