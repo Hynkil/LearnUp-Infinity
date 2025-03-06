@@ -1,4 +1,4 @@
-# LearnUp-Infinity (Rólunk)#
+# LearnUp-Infinity (Rólunk)
 Csáo csáo
 # Veszélyek
 -A coding résznél meg van a veszélye hogy eltolódik és vele együtt a bug fixing és a testing.
