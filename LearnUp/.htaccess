@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^Home$ Home.html [L]
+RewriteRule ^home$ Home.html [L]
+RewriteRule ^registration$ registration.php [L]
+RewriteRule ^math_lesson1$ math_lesson1.php [L]
+RewriteRule ^login$ login.php [L]
+RewriteRule ^learn$ learn.php [L]
