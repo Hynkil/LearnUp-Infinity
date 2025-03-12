@@ -45,8 +45,7 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 ## Támogatási lehetőségek
 Ha szeretnél hozzájárulni a projekthez, itt van néhány mód:
 - **Adományozás**: Támogathatsz minket PayPal-on vagy Patreon-on, hogy fenntarthasuk a projektfejlesztést.
-- [paypal.me/jurjur06]
-- [NINCS]
+[Adományozz PayPal-lal](https://paypal.me/jurjur062)
 
 ## Veszélyek
 - A coding résznél meg van a veszélye hogy eltolódik és vele együtt a bug fixing és a testing.
