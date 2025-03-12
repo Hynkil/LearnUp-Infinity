@@ -41,7 +41,7 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 ![image](https://github.com/user-attachments/assets/cb94ec29-b30b-4273-aba3-92f568b332f2)
 ![image](https://github.com/user-attachments/assets/1b0092e7-6da0-4ed6-b707-aa47e5fde8b5)
 ![image](https://github.com/user-attachments/assets/50e27b11-baa8-4323-b62d-6ccd0d563936)
-![image]()
+![image](http://www.kepfeltoltes.eu/view.php?filename=287IMG_1151.jpeg)
 ## Célok fejlesztés szempontjából
 - Telefonra át optimizálni teljesen
 - Help center
