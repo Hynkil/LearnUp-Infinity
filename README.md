@@ -13,7 +13,7 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
    git clone https://github.com/Felhasznalo/LearnUp.git
 ## Futtatás
 1. Töltsd le az XAMPP programot és ha megvan akkor indísd el.
-2. A "LearnUp" mappát úgy ahogy van tedd bele a C:/.../XAMPP/htdocs/, mappába.
+2. A "LearnUp" mappát úgy ahogy van tedd bele a C:/.../XAMPP/htdocs/ mappába.
 3. XAMPP alkalmazásban indísd el az "Apache" és "MySQL".
 4. Bőngészőbe ird be: localhost:80/phpmyadmin/, és ott létre kell hozni egy adatbázist azon a néven, hogy: "webapp_db"
 5. Ezek után nyomj rá az adatbázisra és utána arra hogy lekérdezés/SQL (ahova tudod irni kódot), és másold be ezt:
