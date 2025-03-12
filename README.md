@@ -43,6 +43,6 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 ![image](https://github.com/user-attachments/assets/50e27b11-baa8-4323-b62d-6ccd0d563936)
 
 ## Veszélyek
--A coding résznél meg van a veszélye hogy eltolódik és vele együtt a bug fixing és a testing.
-<br>-A logo létrehozása nagyon a végénél van ami azt a veszélyt hozza létre hogy ha eltolódik akkor túl megy a idő határon.
+- A coding résznél meg van a veszélye hogy eltolódik és vele együtt a bug fixing és a testing.
+- A logo létrehozása nagyon a végénél van ami azt a veszélyt hozza létre hogy ha eltolódik akkor túl megy a idő határon.
 
