@@ -38,7 +38,8 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 - ```sh
   ipconfig
 - Keresd azt hogy Ipv4 és az ottani lokális ip címedet másold ki (pl.: 192.168.1.100), és írd be bőngészőbe és írd utána, hogy *:80 (pl.: 192.168.100:80), ezek után ha minden jó írd utána hogy /LearnUp/
+![image](https://github.com/user-attachments/assets/cb94ec29-b30b-4273-aba3-92f568b332f2)
 ## Veszélyek
 -A coding résznél meg van a veszélye hogy eltolódik és vele együtt a bug fixing és a testing.
 <br>-A logo létrehozása nagyon a végénél van ami azt a veszélyt hozza létre hogy ha eltolódik akkor túl megy a idő határon.
-![image](https://github.com/user-attachments/assets/cb94ec29-b30b-4273-aba3-92f568b332f2)
+
