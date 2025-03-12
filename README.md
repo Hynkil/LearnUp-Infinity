@@ -1,17 +1,14 @@
-# LearnUp - Interaktív tanulási weboldal  
+# LearnUp - Oktatási weboldal
 
-A LearnUp egy oktatási weboldal, amely segít különböző tantárgyak elsajátításában.  
+A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsajátításában.  
 
 ## 🌟 Fő funkciók  
 ✅ Tantárgyak (magyar nyelv, irodalom, történelem, matek)  
 ✅ Kvízek és tesztek  
-✅ Felhasználói fiókok és előfizetés (ha van)  
+✅ Felhasználói fiókok és előfizetés  
+✅ PHP alapú backend és MySQL adatbázis  
 
-## 🚀 Weboldal használata  
-Nyisd meg a következő URL-t:  
-🔗 [https://learnup.hu](https://learnup.hu) *(ha van saját domain, ide jön)*  
-
-Vagy futtasd helyben:  
+## 🚀 Telepítés  
 1. Klónozd a repót:  
    ```sh
    git clone https://github.com/Felhasznalo/LearnUp.git
