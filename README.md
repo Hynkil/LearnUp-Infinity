@@ -42,6 +42,10 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 ![image](https://github.com/user-attachments/assets/1b0092e7-6da0-4ed6-b707-aa47e5fde8b5)
 ![image](https://github.com/user-attachments/assets/50e27b11-baa8-4323-b62d-6ccd0d563936)
 ![image]()
+## Célok fejlesztés szempontjából
+- Telefonra át optimizálni teljesen
+- Help center
+- Alkalmazás fejlesztés
 
 ## Támogatási lehetőségek
 Ha szeretnél hozzájárulni a projekthez, itt van néhány mód:
