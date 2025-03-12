@@ -1,5 +1,5 @@
 # LearnUp - Oktatási weboldal
-
+#BÉTA
 A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsajátításában.  
 
 ## 🌟 Fő funkciók  
