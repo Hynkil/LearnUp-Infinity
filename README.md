@@ -32,7 +32,13 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
    lesson_number VARCHAR(255) NOT NULL,
    lesson_page VARCHAR(255) NOT NULL,
    FOREIGN KEY (user_id) REFERENCES users(id)
-   ); 
+   );
+6. Futtasd le ezt a kódot és ha kész akkor nincs más dolgod mint beírni: https://localhost/LearnUp vagy localhost:80/LearnUp
+!!! ESETLEGES !!!
+- Ha nem müködne a link vagy nem tud localhosttal csatlakozni akkor nyissa meg a cmd és irja be:
+- ```sh
+  ipconfig
+- Keres azt hogy Ipv4 és az ottani lokális ip címedet másold ki (pl.: 192.168.1.100), és írd be bőngészőbe és írd utána, hogy *:80 (pl.: 192.168.100:80), ezek után ha minden jó írd utána hogy /LearnUp/
 ## Veszélyek
 -A coding résznél meg van a veszélye hogy eltolódik és vele együtt a bug fixing és a testing.
 <br>-A logo létrehozása nagyon a végénél van ami azt a veszélyt hozza létre hogy ha eltolódik akkor túl megy a idő határon.
