@@ -1,35 +1,7 @@
-<?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "kapcsolatfelveto";
-
-// Kapcsolódás az adatbázishoz
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-// Ellenőrizzük a kapcsolatot
-if ($conn->connect_error) {
-    die("Kapcsolódási hiba: " . $conn->connect_error);
-}
-
-// Lekérdezzük az összes üzenetet az adatbázisból
-$sql = "SELECT * FROM reports ORDER BY submitted_at DESC";
-$result = $conn->query($sql);
-
-echo "<h1 style='text-align:center; color: #FFD700;'>Beérkezett üzenetek</h1>";
-
-if ($result->num_rows > 0) {
-    // Kiírjuk az üzeneteket
-    while($row = $result->fetch_assoc()) {
-        echo "<div style='background-color: #1a1a1a; padding: 20px; margin: 20px auto; width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);'>";
-        echo "<h3 style='color: #FFD700;'>" . htmlspecialchars($row['name']) . " (" . htmlspecialchars($row['email']) . ")</h3>";
-        echo "<p style='color: #FFD700;'>" . nl2br(htmlspecialchars($row['message'])) . "</p>";
-        echo "<hr style='border-color: #FFD700;'>";
-        echo "</div>";
-    }
-} else {
-    echo "<p style='color: #FFD700; text-align:center;'>Nincsenek beérkezett üzenetek.</p>";
-}
-
-$conn->close();
-?>
+CREATE TABLE reports (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    message TEXT NOT NULL,
+    submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
