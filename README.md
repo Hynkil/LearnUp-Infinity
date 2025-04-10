@@ -19,13 +19,13 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 5. Ezek után nyomj rá az adatbázisra és utána arra hogy lekérdezés/SQL (ahova tudod irni kódot), és másold be ezt:
    ```sh
    CREATE TABLE users(
-   id INT PRIMARY AUTO_INCREMENT,
+   id INT PRIMARY KEY AUTO_INCREMENT,
    name VARCHAR(255) NOT NULL,
    email VARCHAR(255) NOT NULL UNIQUE,
    password VARCHAR(255) NOT NULL
    );
    CREATE TABLE user_lessons(
-   id INT PRIMARY AUTO_INCREMENT,
+   id INT PRIMARY KEY AUTO_INCREMENT,
    user_id INT,
    subject VARCHAR(255) NOT NULL,
    lesson_number VARCHAR(255) NOT NULL,
