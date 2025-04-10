@@ -45,7 +45,7 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 
 ## Célok fejlesztés szempontjából
 - Telefonra át optimizálni teljesen
-- Help center
+- <p style="color:green">Help center (DONE)</p>
 - Alkalmazás fejlesztés
 
 ## Támogatási lehetőségek
