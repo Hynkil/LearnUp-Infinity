@@ -50,6 +50,9 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 - <p style="color:green">Help center (DONE)</p>
 - Alkalmazás fejlesztés
 
+
+
+https://f992ce7c133ba8373502cbca0d2a03af.serveo.net
 ## Támogatási lehetőségek
 Ha szeretnél hozzájárulni a projekthez, itt van néhány mód:
 - **Adományozás**: Támogathatsz minket PayPal-on vagy Patreon-on, hogy fenntarthasuk a projektfejlesztést.
