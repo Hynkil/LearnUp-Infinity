@@ -6,6 +6,8 @@ A LearnUp egy interaktív tanulási weboldal, amely segít tantárgyak elsaját�
 ✅ Kvízek és tesztek  
 ✅ Felhasználói fiókok és előfizetés  
 ✅ PHP alapú backend és MySQL adatbázis  
+## Help center 📧
+Írhatsz nekünk a weboldalon keresztül üzenetet és e-mailben küldünk választ.
 
 ## 🚀 Telepítés  
 1. Klónozd a repót:  
